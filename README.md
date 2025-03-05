@@ -201,6 +201,3 @@ python adherence_analysis.py
 Review the output, including plots and model performance metrics.
 
 This project was created to demonstrate machine learning techniques for predicting patient treatment adherence.
-
-
-You can copy and save this as `README.md` in your project directory. Let me know if you need further assistance!
